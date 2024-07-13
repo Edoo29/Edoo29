@@ -1,7 +1,7 @@
 # Hi 👋
 
-I'm **Edoardo** and I'm from **Italy** 🇮🇹
-I really like developing web applications
+I'm **Edoardo** and I'm from **Italy** 🇮🇹 \
+I really like developing web applications 👨‍💻
 
 ## My stack ⬇️
 <div style="display:flex;">
