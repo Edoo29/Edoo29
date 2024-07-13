@@ -24,6 +24,9 @@ I really like developing web applications 👨‍💻
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/512px-2023_Obsidian_logo.svg.png?20230604143825" alt="obsidian logo" style="height:50px"/>
 </div>
 
+You can contact me here 👇
+- (Discord)[https://discordapp.com/users/1221847032499667149]
+
 <!---
 Edoo29/Edoo29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
