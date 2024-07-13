@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Edo
-- 👀 I’m interested in web development using React, Astro ....
-- 🌱 I'll start soon learning Nextjs and Redux (maybe)
-- 📫 My portfolio => [i-am-edo](https://i-am-edo.netlify.app)
+# Hi 👋
+
+## I'm **Edoardo** and I'm from **Italy**
 
 <!---
 Edoo29/Edoo29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
