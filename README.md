@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm **Edoardo** and I'm from **Italy** 🇮🇹 \
+I'm **Edoardo** and I'm from **Italy** 🇮🇹  
 I really like developing web applications 👨‍💻
 
 ## My stack ⬇️
@@ -26,7 +26,10 @@ I really like developing web applications 👨‍💻
 </div>
 
 ## Take a look to my **portfolio** 💼
-https://hi-im-edo.vercel.app
+- Click the link: https://hi-im-edo.vercel.app <br/>
+- Or scan directly the QRCode below <br/>
+  ![hi-im-edo](https://github.com/user-attachments/assets/954cc137-f433-4f24-a363-c67e3bdc1dbc)
+
 
 ## You can contact me here 👇
 - <a href="https://discordapp.com/users/1221847032499667149">Discord</a>
