@@ -1,6 +1,6 @@
 # Hi 👋
 
-## I'm **Edoardo** and I'm from **Italy**
+## I'm **Edoardo** and I'm from **Italy**🇮🇹
 
 <!---
 Edoo29/Edoo29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
