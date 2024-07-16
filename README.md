@@ -28,7 +28,7 @@ I really like developing web applications 👨‍💻
 ## Take a look to my **portfolio** 💼
 - Click the link: https://hi-im-edo.vercel.app <br/>
 - Or scan directly the QRCode below <br/>
-  ![hi-im-edo](https://github.com/user-attachments/assets/954cc137-f433-4f24-a363-c67e3bdc1dbc)
+  ![hi-im-edo-portfolio](hi-im-edo-portfolio.vercel.app)
 
 
 ## You can contact me here 👇
