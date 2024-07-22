@@ -5,9 +5,12 @@ I really like developing web applications 👨‍💻
 
 ## My stack ⬇️
 <div style="display:flex;">
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs logo" style="height:50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="ts logo" style="height: 50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss logo" style="height:50px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs logo" style="height:50px"/>
+  <img src="https://images.saasworthy.com/turso_45912_logo_1698482949_utu4o.jpg" alt="turso-db-logo" style="height:50px" />
+  <img src="https://avatars.githubusercontent.com/u/108468352?v=4" alt="drizzle-orm-logo" style="height:50px"/>
+  <img src="https://avatars.githubusercontent.com/u/124423533?s=280&v=4" alt="lucia-auth logo" style="height:50px"/>
 </div>
 
 ## Other tools 🚀
