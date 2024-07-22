@@ -7,7 +7,7 @@ I really like developing web applications 👨‍💻
 <div style="display:flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="ts logo" style="height: 50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss logo" style="height:50px"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/640px-Nextjs-logo.svg.png](https://cdn.worldvectorlogo.com/logos/next-js.svg)" alt="nextjs logo" style="height:50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/640px-Nextjs-logo.svg.png" alt="nextjs logo" style="height:50px"/>
 </div>
 
 ## Other tools 🚀
