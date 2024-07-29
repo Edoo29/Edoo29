@@ -1,7 +1,7 @@
 <h2 align="left">Hi👋 I'm Edo, a frontend developer from Italy 🟩⬜🟥</h2>
 
 ###
-
+My tech stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" alt="html5 logo"  />
   <img width="12" />
