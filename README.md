@@ -33,8 +33,8 @@ Contact me
 </div>
 
 ###
-
-<div align="center">
+Views
+<div align="left">
   <img src="https://profile-counter.glitch.me/Edoo29/count.svg?"  />
 </div>
 
