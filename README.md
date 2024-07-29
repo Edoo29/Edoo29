@@ -12,7 +12,7 @@ I really like developing web applications 👨‍💻
 </div>
 
 ## Other tools 🚀
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row; gap: 50px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png" alt="git logo" style="height:50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode logo" style="height:50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Postman_%28software%29.png/640px-Postman_%28software%29.png" alt="postman logo" style="height:50px"/>
