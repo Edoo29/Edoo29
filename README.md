@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A young developer from Italy e</p>
+<p align="left">A young developer from Italy 🇮🇹</p>
 
 ###
 
