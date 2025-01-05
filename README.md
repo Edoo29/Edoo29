@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React<br>🎯 Goals: Frontend Developer</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React and advanced TailwindCSS<br>🎯 Goals: Frontend Developer</p>
 
 ###
 
