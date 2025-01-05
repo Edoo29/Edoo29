@@ -36,8 +36,8 @@
 
 ###
 
-🇮🇹 Italian (full knowledge)
-🇬🇧 English (medium knowledge)
+<p>🇮🇹 Italian (full knowledge)</p>
+<p>🇬🇧 English (medium knowledge)</p>
 
 <h2 align="left">My GitHub stats</h2>
 
