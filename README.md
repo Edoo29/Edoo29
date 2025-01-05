@@ -32,6 +32,13 @@
 
 ###
 
+<h2 align="left">Languages</h2>
+
+###
+
+🇮🇹 Italian (full knowledge)
+🇬🇧 English (medium knowledge)
+
 <h2 align="left">My GitHub stats</h2>
 
 ###
