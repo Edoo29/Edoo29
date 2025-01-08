@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Edoardo
-A young web developer from Italy
+A young web developer from Italy 🇮🇹
 
 # 💫 About Me:
 📚 I'm currently learning React<br>🎯 Goal: Mastering web development<br>📅 Studying web development since 2022
