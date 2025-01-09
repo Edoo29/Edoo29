@@ -12,6 +12,4 @@ A young web developer from Italy 🇮🇹
 
 <img src="https://raw.githubusercontent.com/Edoo29/Edoo29/output/snake.svg" alt="Snake animation" />
 
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and  -->
