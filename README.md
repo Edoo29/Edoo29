@@ -2,7 +2,7 @@
 A young web developer from Italy 🇮🇹
 
 ## ✨ About Me:
-📚 I'm currently learning React<br>🎯 Goal: Mastering web development<br>📅 Studying web development since 2022
+📚 I'm currently learning React<br>🎯 Goal: Mastering web development<br>📅 Studying web development since 2023
 
 
 ## 💻 Tech Stack:
