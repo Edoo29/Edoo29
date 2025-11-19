@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edoardo
 A young web developer from Italy 🇮🇹 <br>
-My portfolio: <a href="https://edodev.vercel.app">Edo - My portfolio</a>
+My portfolio: <a href="https://edodev.vercel.app" target="_blank">Edo - My portfolio</a>
 
 ## ✨ About Me:
 📚 I'm currently learning React<br>🎯 Goal: Mastering web development<br>📅 Studying web development since 2023
